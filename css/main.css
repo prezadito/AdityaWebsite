@@ -98,8 +98,8 @@ footer {
 }
 
 .social-icon {
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
   margin: 0 5px;
 }
 
@@ -191,7 +191,7 @@ body {
 /* green header */
 header {
  background: #6ab47b;
-  border-color: #599a68;
+ border-color: #599a68;
 }
 
 /* nav background on mobile */
