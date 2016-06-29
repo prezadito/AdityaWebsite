@@ -94,7 +94,7 @@ footer {
   text-align: center;
   clear: both;
   padding-top: 50px;
-  color: #ccc;
+  color: #2E5077;
 }
 
 .social-icon {
@@ -119,15 +119,15 @@ PAGE: PORTFOLIO
   float: left;
   width: 45%;
   margin: 2.5%;
-  background-color: #f5f5f5;
-  color: #bdc3c7;
+  background-color: #D7E8BA;
+  /*color: #FFA630;*/
 }
 
 #gallery li a p {
   margin: 0;
   padding: 5%;
-  font-size: 0.75em;
-  color: #bdc3c7;
+  font-size: 1em;
+  color: #2E5077;
 }
 
 
@@ -185,18 +185,18 @@ COLORS
 /* site body */
 body {
   background-color: #fff;
-  color: #999;
+  color: #611C35;
 }
 
 /* green header */
 header {
- background: #6ab47b;
- border-color: #599a68;
+ background: #2E5077;
+ border-color: #FFA630;
 }
 
 /* nav background on mobile */
 nav {
-  background: #599a68;
+  background: #2d3a3a;
 }
 
 /* logo text */
@@ -206,7 +206,7 @@ h1, h2 {
 
 /* links */
 a {
-  color: #61b47b;
+  color: #2E5077;
 }
 
 /* nav link */
@@ -216,5 +216,5 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #4DA1A9;
 }
